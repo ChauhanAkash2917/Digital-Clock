@@ -1,6 +1,7 @@
 http://127.0.0.1:5500/index.html
 
 **Digital Clock**
+
 A simple and elegant digital clock built using [mention technologies used, e.g., HTML, CSS, JavaScript]. This project displays the current time in a user-friendly format and updates dynamically. It includes features such as 12-hour/24-hour format switching, customizable themes, and smooth animations.
 
 **🔹 Features:**
@@ -16,7 +17,9 @@ A simple and elegant digital clock built using [mention technologies used, e.g.,
 **🛠 Technologies Used:**
 
 HTML
+
 CSS
+
 JavaScript
 
 ![Screenshot 2025-03-04 112659](https://github.com/user-attachments/assets/7fd49669-f4ee-439a-8e5b-a3695ec88107)
