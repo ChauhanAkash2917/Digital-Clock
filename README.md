@@ -1,6 +1,6 @@
-http://127.0.0.1:5500/index.html
 
-**Digital Clock**
+[**⌚Digital Clock**](https://chauhanakash2917.github.io/Digital-Clock/)
+
 
 A simple and elegant digital clock built using [mention technologies used, e.g., HTML, CSS, JavaScript]. This project displays the current time in a user-friendly format and updates dynamically. It includes features such as 12-hour/24-hour format switching, customizable themes, and smooth animations.
 
